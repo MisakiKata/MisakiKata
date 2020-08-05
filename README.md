@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi Everyone 👋
 
+- 🔭 Cyber Security: Penestration, Corporate Security, Python Code Audit.
+- 📫 Amateur: Android Reverse.
+- 👯 CTF: web, Android.
+- 🌱 Learning: DevSecOps, Intranet Penetration.
+- ⚡ [My Blog](https://misakikata.github.io), Since September 2018.
+
+😄 Thanks for attention!✨
+
+![github](https://github-readme-stats.vercel.app/api?username=MisakiKata&show_icons=true&theme=dracula&hide=issues,prs)
 <!--
 **MisakiKata/MisakiKata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
