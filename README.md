@@ -15,9 +15,9 @@ He
 A national level one player who has difficulty getting up, likes to study, and occasionally write some code projects.
 
 ### 📫 Get in Touch?
-- RSS Url: [https://misakikata.github.io/atom.xml][rss]
-- GitHub: [https://github.com/MisakiKata][github]
-- Site: [https://misakikata.github.io][site]
+- RSS Url: https://misakikata.github.io/atom.xml
+- GitHub: https://github.com/MisakiKata
+- Site: https://misakikata.github.io
 - E-mail: misakikatas@gmail.com
 
 ### 😄 Thanks for attention!✨
