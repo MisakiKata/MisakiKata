@@ -1,13 +1,26 @@
-### Hi Everyone 👋
+<h1 align="center">Hi 👋, I'm MisakiKata</h1>
+<h3 align="center">A web security engineer from China</h3>
 
-- 🔭 Cyber Security: Penestration, Corporate Security, Python Code Audit.
-- 📫 Amateur: Android Reverse.
-- 👯 CTF: web, Android.
-- 🌱 Learning: DevSecOps, Intranet Penetration.
-- ⚡ [My Blog](https://misakikata.github.io), Since September 2018.
+### 😄 Pronouns
+He
 
-😄 Thanks for attention!✨
+### 🌱 What do I do?
+- 🔭 Cyber Security: **Penestration**, **Corporate Security**, **Python Code Audit**.
+- 📫 Amateur:**Android Reverse**.
+- 👯 Code:Familiar with **python**, sometimes use django to develop some projects, will also use flask to write some interface functions
+- 🌱 Learning: **DevSecOps**, **Intranet Penetration**.
+- 🤝 Working On: **Shanghai**.
 
+### ⚡ One line that describes me best? 
+A national level one player who has difficulty getting up, likes to study, and occasionally write some code projects.
+
+### 📫 Get in Touch?
+- RSS Url: [https://misakikata.github.io/atom.xml][rss]
+- GitHub: [https://github.com/MisakiKata][github]
+- Site: [https://misakikata.github.io][site]
+- E-mail: misakikatas@gmail.com
+
+### 😄 Thanks for attention!✨
 
 <!--
 ![github](https://github-readme-stats.vercel.app/api?username=MisakiKata&show_icons=true&theme=dracula&hide=issues,prs)
