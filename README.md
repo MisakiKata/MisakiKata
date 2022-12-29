@@ -19,6 +19,7 @@ A national level one player who has difficulty getting up, likes to study, and o
 - GitHub: https://github.com/MisakiKata
 - Site: https://misakikata.github.io
 - E-mail: misakikatas@gmail.com
+- MiniProgram : https://github.com/MisakiKata/misakikata.github.io/blob/master/img/wxmini.png
 
 ### 😄 Thanks for attention!✨
 
